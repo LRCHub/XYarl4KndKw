@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "勝って泣こうゼッ！",
+  "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+  "createdAt": "2026-02-08T08:20:02.888017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勝って泣こうゼッ！ （第68話〜87話 OP)",
+      "artist": "Muray",
+      "has_synced": false,
+      "path": "select/01_勝って泣こうゼッ!_(第68話〜87話_OP)_Muray.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勝って泣こうゼッ! (アニメオープニングVer.)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/02_勝って泣こうゼッ!_(アニメオープニングVer.)_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勝って泣こうゼッ!",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": false,
+      "path": "select/pl_01_勝って泣こうゼッ!_T-Pistonz+KMC.txt"
+    }
+  ]
+}
